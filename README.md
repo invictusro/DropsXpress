@@ -1,5 +1,4 @@
-# DropsXpress
-## Drop Automation Software for X
+## Drop Automation Software for X - DropsXpress
 
  DropsXpress is the newest drop software with a lot of features and fair pricing
 
