@@ -1,6 +1,6 @@
 ## Drop Automation Software for X - DropsXpress
 
- DropsXpress is the newest drop software with a lot of features and fair pricing
+ DropsXpress is a software for Drops Groups, Retweet Groups on X with a lot of features and fair pricing
 
 ## Features
 
@@ -17,3 +17,4 @@
 
 #### [Join our telegram group for more information: click here](https://t.me/DropsXpress)
 
+rt, drops, rt group, x retweets, twitter drops, twitter retweets
